@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+wandb/
+results/
+distilbert-goodreads-genres/
+eval_report.json
+eval_results.json
